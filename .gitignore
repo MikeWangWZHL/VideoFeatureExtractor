@@ -1,1 +1,7 @@
 /model/*
+caption_pickles
+extracted_features
+feature_pickles
+input_csv
+model
+train_val_csv_for_captioning_UniVL
